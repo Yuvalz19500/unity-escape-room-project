@@ -1,0 +1,1143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99a047fb42667477a9b2c2d4807b9b8f, type: 3}
+  m_Name: wTextnVoices
+  m_EditorClassIdentifier: 
+  diaryList:
+  - _languageSlot:
+    - diaryTitle:
+      - Room 1 Intro
+      diaryTextDisplayState: 00
+      diaryText:
+      - New Page
+      diaryAudioClip:
+      - {fileID: 8300000, guid: eade21b1227674a48bfae77ec24cdc9f, type: 3}
+      - {fileID: 8300000, guid: 0bb38877093e14025bb76c8d28cbcc36, type: 3}
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00000000000000000000
+        startPointsClip:
+        - 1.4657596
+        - 6.1338863
+        - 8.969705
+        - 14.446917
+        - 20.482368
+        - 24.338676
+        - 31.342636
+        - 35.27965
+        - 38.571
+        - 44.60645
+        firstLetter:
+        - 0
+        - 5
+        - 11.286307
+        - 16.286308
+        - 46.28631
+        - 76.28631
+        - 106.28631
+        - 136.28632
+        - 166.28632
+        - 196.28632
+        lastLetter: 0500000004000000050000001e0000001e0000001e0000001e0000001e0000001e0000001e000000
+        bypasstextLayout: 01010101010101010101
+        textSub:
+        - '<animal crossing sound> Yea, I told him that..  '
+        - 'ah.. wait..  I need to hang up. '
+        - what? who are you? what are you doing here?
+        - ahh ok, listen up. I need you to get out of my house.
+        - 'like.. how did you even get here? '
+        - witchcarft? magic? wizardry! or is it some kind of a distorted fetish?!
+        - anyway, it seems that we have something in common.
+        - we both want you out of here!
+        - since there is no one else to take on this job, i'll lead you up to the
+          exit
+        - there is a light switch to your left. use it to light up the room.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 0
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 1 Chose Right
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 568bdf92a6b6db94e9f647d1a9de465c, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 01
+        textSub:
+        - "o.k. you smartass\u2026 you had to ruin the fun"
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 25
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 1 Chose Left
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: bd2466c20d764564bb298d7f67de1ca6, type: 3}
+      diarySub:
+      - showMore: 00000000000101
+        startPointsClip:
+        - 1.6214048
+        - 3.2990901
+        - 5.512776
+        - 8.723158
+        - 10.668843
+        - 12.160536
+        - 16.18162
+        firstLetter:
+        - 0
+        - 30
+        - 60
+        - 90
+        - 120
+        - 150
+        - 180
+        lastLetter: 1e0000001e0000001e0000001e0000001e0000001e0000001e000000
+        bypasstextLayout: 01010101010101
+        textSub:
+        - "hahaha\u2026 I can't believe you fell for it"
+        - you absolute bafoon!
+        - if you were a bear, you have been
+        - a petty bear!
+        - 
+        - and just so you know, the button is in another castle
+        - and by castle I mean side
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 20
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 1 Lights Up
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 80e48fe403986e246ad4b97272d8720a, type: 3}
+      diarySub:
+      - showMore: 000000
+        startPointsClip:
+        - 0
+        - 3.6189032
+        - 5.1338196
+        firstLetter:
+        - 0
+        - 30
+        - 60
+        lastLetter: 1e0000001e0000001e000000
+        bypasstextLayout: 010101
+        textSub:
+        - "mmm.. so\u2026 as you can see, you can grab the key"
+        - to get out of this room
+        - ohh wait! Where was it?
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 26
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 1 First Correct Lock Input
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 7a781e48bb349684d8a89d7ab70e34af, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 01
+        textSub:
+        - "oohhh\u2026 it seems that those numbers have something to do with the
+          safe.."
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 3
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 1 3 Correct Inputs
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: d8d0b5127b845bb4a89c1d3ab36d8a52, type: 3}
+      diarySub:
+      - showMore: 0000
+        startPointsClip:
+        - 0.6386087
+        - 3.8070903
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0101
+        textSub:
+        - all right! you got it! That's the way!
+        - Good luck with the last number tho ;)
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 15
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 1 Last Number Clue 1
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 1b1e6f2f2e7d08944a78b7f058e5f608, type: 3}
+      diarySub:
+      - showMore: 0000
+        startPointsClip:
+        - 0.28800002
+        - 3.2120001
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0101
+        textSub:
+        - it is so unfortunate that you have to solve
+        - "the entire equation to get that number\u2026"
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 11
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 1 Last Number Clue 2
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 22855ceb7a180f34fa461e99a3c4e701, type: 3}
+      diarySub:
+      - showMore: 0000
+        startPointsClip:
+        - 0.22800002
+        - 5.9
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0101
+        textSub:
+        - it is so unfortunate that you actually really have to solve it
+        - you dumbass...
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 16
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 1 Last Number Clue 3
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 1a889e29f4dc33f478da1a72a12524fe, type: 3}
+      diarySub:
+      - showMore: 00000000
+        startPointsClip:
+        - 0
+        - 3.9047356
+        - 5.877538
+        - 6.8707023
+        firstLetter:
+        - 0
+        - 30
+        - 60
+        - 90
+        lastLetter: 1e0000001e0000001e0000001e000000
+        bypasstextLayout: 01010101
+        textSub:
+        - it is really unfortunate there is no other way
+        - because you cannot just..
+        - "I don\u2019t know..."
+        - Guess it?
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 21
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 1 Solved The Puzzle
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: e5fece149ef2e8e458b80bf6bbd6b428, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 01
+        textSub:
+        - "congrats\u2026 now get out!"
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 4
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 2 Intro
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: bd64a9e8aaa48c1449fb4ec040ced69f, type: 3}
+      diarySub:
+      - showMore: 000000000000
+        startPointsClip:
+        - 0
+        - 3.157097
+        - 5.2076254
+        - 8.367733
+        - 11.600402
+        - 15.27699
+        firstLetter:
+        - 0
+        - 30
+        - 60
+        - 90
+        - 120
+        - 150
+        lastLetter: 1e0000001e0000001e0000001e0000001e0000001e000000
+        bypasstextLayout: 010101010101
+        textSub:
+        - in this room there is a real door
+        - you have a minute to pick one
+        - and then you will have 5 minutes to open the door
+        - but if you make the wrong choice
+        - you will be trapped here! forever!!!!
+        - HAHAHAwGThHGHGHTGGThgtgHGHTgthgh
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 5
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 2 4m 22s
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 827acd627ab63a6429e9f99097dc5b31, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0.6935117
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 01
+        textSub:
+        - 4 minutes and 22 seconds left
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 12
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 2 1m 03s
+      diaryTextDisplayState: 01
+      diaryText:
+      - room 2 1m 3s
+      diaryAudioClip:
+      - {fileID: 8300000, guid: d052e500d0c607d49b9429ffeaec1d7e, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 01
+        textSub:
+        - one minute and 3 seconds left
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 7
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 2 30s
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: bdbc850e677c3e847a7af357343a2109, type: 3}
+      diarySub:
+      - showMore: 0000
+        startPointsClip:
+        - 0
+        - 1.8605351
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0101
+        textSub:
+        - "you have to choose\u2026"
+        - Now!!!
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 17
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 2 Door Open
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 9b3bb601b0e28e24391970b799380c8f, type: 3}
+      diarySub:
+      - showMore: 0001
+        startPointsClip:
+        - 0
+        - 2
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0101
+        textSub:
+        - I'm truly astonished!
+        - You managed to recognize a door.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 22
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 2 Door Open Fail
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: abc13799394e94c4e9a7d13f8f80f96c, type: 3}
+      diarySub:
+      - showMore: 0000
+        startPointsClip:
+        - 0.3412174
+        - 5.5040402
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0101
+        textSub:
+        - "as you can see, the door is in front of you are actually \u2013 doors!"
+        - Here, I'll opened them for you
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 27
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 3 Intro
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 761410aeaa989af4da9f04b420bea69d, type: 3}
+      diarySub:
+      - showMore: 000000000000000101
+        startPointsClip:
+        - 0
+        - 4.5452843
+        - 6.6750503
+        - 10.208963
+        - 14.45505
+        - 16.509834
+        - 21.194181
+        - 27.248095
+        - 30.453312
+        firstLetter:
+        - 0
+        - 30
+        - 60
+        - 90
+        - 120
+        - 150
+        - 180
+        - 210
+        - 240
+        lastLetter: 1e0000001e0000001e0000001e0000001e0000001e0000001e0000001e0000001e000000
+        bypasstextLayout: 010101010101010101
+        textSub:
+        - "fudging hell! My roommate clearly didn\u2019t clean after himself"
+        - "what  a  mess\u2026"
+        - well, surely you can make your way through his room
+        - but how did he manage to get everything so messed up?
+        - did he create new walls?
+        - well, to continue you have to sort this out!
+        - only the most powerfull tools can unreval the exit
+        - four key items will enable the way out
+        - I hope you can find them
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 8
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 4 Intro
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 5ca475e0f4971db44be87df531c0b1f0, type: 3}
+      diarySub:
+      - showMore: 0000
+        startPointsClip:
+        - 0.3803478
+        - 2.380348
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0101
+        textSub:
+        - "look at that\u2026"
+        - there must be something useful in it!
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 23
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 4 Finish Riddle 1
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: cb74d920527673b4b8e5a26e9e0d1cfd, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 01
+        textSub:
+        - I'm sure that key will be helpful
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 13
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 4 Progress Riddle 2
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 43cc190666c960044a93e8958160fc09, type: 3}
+      diarySub:
+      - showMore: 0000000000
+        startPointsClip:
+        - 0.25862205
+        - 2.387933
+        - 4.9913845
+        - 7.465525
+        - 10.866395
+        firstLetter:
+        - 0
+        - 30
+        - 60
+        - 90
+        - 120
+        lastLetter: 1e0000001e0000001e0000001e0000001e000000
+        bypasstextLayout: 0101010101
+        textSub:
+        - make sure you grab the bottle
+        - better safe than sorry, am I right?
+        - "Ohh\u2026 and the pencil too"
+        - And that bookmarker , and that needle
+        - "don\u2019t forget about the book!"
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 28
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 4 Finish Riddle 3
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: aff98251097138242a9ab952e8d1d095, type: 3}
+      diarySub:
+      - showMore: 0000000000
+        startPointsClip:
+        - 0
+        - 3.4818995
+        - 7.6902204
+        - 9.734046
+        - 14.189111
+        firstLetter:
+        - 0
+        - 30
+        - 60
+        - 90
+        - 120
+        lastLetter: 1e0000001e0000001e0000001e0000001e000000
+        bypasstextLayout: 0101010101
+        textSub:
+        - I have this feeling that I can't shake off
+        - "As if I forgot something\u2026 mmm\u2026"
+        - "Just asking\u2026"
+        - did you mayhaps check if the exit door is locked?
+        - 'oh shoot! I think I left it open!! '
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 18
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 5 Intro
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 5b1353c7f90be8b438b56d6d0d2b0085, type: 3}
+      diarySub:
+      - showMore: 0000
+        startPointsClip:
+        - 0
+        - 4.6858597
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0101
+        textSub:
+        - Wait! Since when I had a giant dragon statue?
+        - I swear to dog, my roommate taste's in decor is getting crazier by the
+          day
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 24
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 5 First Fire Trigger
+      diaryTextDisplayState: 01
+      diaryText:
+      - room 5 first fire trigger
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 5c19db6672c0cc74e905e80ac74cadae, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 01
+        textSub:
+        - It breath fire too?!?!
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 19
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Dies To Fire Many Times
+      diaryTextDisplayState: 01
+      diaryText:
+      - 0
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 933b7be0e98efea49886bb8a3f9231ce, type: 3}
+      diarySub:
+      - showMore: 0000
+        startPointsClip:
+        - 0.06770568
+        - 2.3288562
+        firstLetter:
+        - 0.01875
+        - 30
+        lastLetter: 140000001e000000
+        bypasstextLayout: 0101
+        textSub:
+        - "ohh\u2026 are you approaching it?"
+        - ' instead of running away you come right to it?'
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 1
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 5 Clue 1
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 4720658c9cb47c84da22cea3d616a9cd, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 01
+        textSub:
+        - "Oohhh\u2026 what an ugly statue.."
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 6
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 5 Clue 2
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 33ebab326d8e2294086d7e7326145420, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 01
+        textSub:
+        - it burns my eyes just looking at this hideous statue!
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 9
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Room 5 Clue 3
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 42c4a3ae88333c14cafa33a459ad6616, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 01
+        textSub:
+        - "oh God! I don\u2019t want to look at it anymore!"
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 14
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Unfinished Room
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 4b852bf0ca6ecad4193932e23fb7e9fc, type: 3}
+      diarySub:
+      - showMore: 0001
+        startPointsClip:
+        - 0
+        - 2.982868
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0101
+        textSub:
+        - "ohh\u2026 I didn\u2019t think that you will get this far.."
+        - let me fix the room
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 29
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Finished All Rooms
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 272b0ade87c6ba54589237561f330d23, type: 3}
+      diarySub:
+      - showMore: 0000000000000000
+        startPointsClip:
+        - 0
+        - 5.743144
+        - 10.010721
+        - 14.382702
+        - 17.500336
+        - 19.77592
+        - 22.904749
+        - 26.765219
+        firstLetter:
+        - 0
+        - 30
+        - 60
+        - 90
+        - 120
+        - 150
+        - 180
+        - 210
+        lastLetter: 1e0000001e0000001e0000001e0000001e0000001e0000001e0000001e000000
+        bypasstextLayout: 0101010101010101
+        textSub:
+        - congratulation! you finally got out of my.. house
+        - "now you can see the\u2026"
+        - bear?? my big skull??
+        - This is not my house!
+        - it doesn't make sense at all!
+        - is this the "real" world?
+        - am I inside a game? a simulation???
+        - Is it real or am I just a fantasy?
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 2
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Outro
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 107b83a8e43f8e043baa6ef91a57786c, type: 3}
+      diarySub:
+      - showMore: 000000
+        startPointsClip:
+        - 0
+        - 3.670264
+        - 5.904929
+        firstLetter:
+        - 0
+        - 30
+        - 60
+        lastLetter: 1e0000001e0000001e000000
+        bypasstextLayout: 010101
+        textSub:
+        - thank you for participating in our augmented reality game
+        - we hope that you enjoyed our service
+        - and you are always welcome to play again :)
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 10
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Null
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 30
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Pillar Of Death
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: ea1b4a5363f89df46a8daa32449149c7, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0
+        - 3.1766422
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0101
+        textSub:
+        - 'ah yes! the pillar of DEATH '
+        - no insect will escape you now!
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 31
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Pillar Of GOD
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 36e57cb2d74f73d499deaed3cba92c7b, type: 3}
+      diarySub:
+      - showMore: 0000
+        startPointsClip:
+        - 0
+        - 2.6370034
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0101
+        textSub:
+        - The pillar of GOD
+        - now the all knowing will help you
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 32
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Pillar Of Place Holder
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 80f0aa953c4cfba4cb5ed4b0f4704768, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0
+        - 3.7434382
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0101
+        textSub:
+        - you have found the pillar of PLACE HOLDER tm
+        - <INSERT THE MIGHTY TEXT HERE>
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 33
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Pillar Of Purple
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 8300000, guid: a98ddefd93beda3469d110695d1390e4, type: 3}
+      diarySub:
+      - showMore: 0101
+        startPointsClip:
+        - 0
+        - 2.7259398
+        firstLetter:
+        - 0
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0101
+        textSub:
+        - oh! the pillar of PURPLE
+        - shockingly, it's PURPLE
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 34
+      itemType: 0
+      audioPriority: 0
+  helpBoxEditor: 1
+  idEditorSize: 20
+  titleEditorSize: 240
+  textEditorSize: 350
+  showMoreOptions: 0
+  showMoveUpDown: 1
+  showNameOptions: 0
+  listOfLanguage:
+  - English
+  currentLanguage: 0
+  fisrtTextDisplayedInEditor: 0
+  howManyEntryDisplayed: 20
+  selectedID: 21
+  b_EditSubtitle: 1
+  currentAudioSubtitleEdit: 0
+  editorType: 0
+  showDefaultLanguage: 1
+  multipleVoiceOver: 0
+  b_ShowEye: 0
+  b_UI_DisplayTextArea: 0
