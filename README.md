@@ -1,30 +1,38 @@
 ![Escape Room Invitation](https://github.com/user-attachments/assets/2825928e-9e1f-4bf9-8284-21e4955b945b)
 
+https://github.com/user-attachments/assets/a7f003d3-bd09-4fc2-a326-953e7ed328dd
+
 # Escape Room Project
+
+Welcome to the Escape Room Project! This project showcases a fully interactive escape room game developed using Unity. Below you will find all the necessary information to get started, including project dependencies, setup instructions, and additional notes.
 
 ## Project Dependencies
 
-In order to clone to project and open it with unity, there are assets needed to be downloaded from the asset store.
-These assets are:
+To clone and open this project with Unity, you will need to download the following assets from the Unity Asset Store:
 
-- First person narrative adventures + complete puzzle engine: [First person narrative adventures + complete puzzle engine | Systems | Unity Asset Store](https://assetstore.unity.com/packages/templates/systems/first-person-narrative-adventures-complete-puzzle-engine-131623)
-- Free Homewares Asset Pack: [Free Homewares Asset Pack | 3D Props | Unity Asset Store](https://assetstore.unity.com/packages/3d/props/free-homewares-asset-pack-142878)
-- Golden Dragon Statue: [Golden Dragon Statue | 3D Interior | Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/golden-dragon-statue-63132)
-- Old Torch: [Old Torch | 3D Interior | Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/old-torch-203664)
-- Wooden Floor Materials: [Wooden Floor Materials | 2D Wood | Unity Asset Store](https://assetstore.unity.com/packages/2d/textures-materials/wood/wooden-floor-materials-150564)
-- Apartment Kit: [Apartment Kit | 3D Props | Unity Asset Store](https://assetstore.unity.com/packages/3d/props/apartment-kit-124055)
+- [First person narrative adventures + complete puzzle engine](https://assetstore.unity.com/packages/templates/systems/first-person-narrative-adventures-complete-puzzle-engine-131623)
+- [Free Homewares Asset Pack](https://assetstore.unity.com/packages/3d/props/free-homewares-asset-pack-142878)
+- [Golden Dragon Statue](https://assetstore.unity.com/packages/3d/props/interior/golden-dragon-statue-63132)
+- [Old Torch](https://assetstore.unity.com/packages/3d/props/interior/old-torch-203664)
+- [Wooden Floor Materials](https://assetstore.unity.com/packages/2d/textures-materials/wood/wooden-floor-materials-150564)
+- [Apartment Kit](https://assetstore.unity.com/packages/3d/props/apartment-kit-124055)
 
-Also, this project was migrated to URP render pipeline, so after importing all the packages, go to **Window > Rendering > Render Pipeline Converter** and use the **"Built-in to URP"** converter:
+## Setup Instructions
 
-1.  Tick "Rendering Settings", "Material Upgrade", "Readonly Material Converter"
-2.  Click Initialize Converters
-3.  Click Convert Assets
+This project has been migrated to the Universal Render Pipeline (URP). After importing all the required packages, follow these steps to convert the project to URP:
 
-## Note
+1. Go to **Window > Rendering > Render Pipeline Converter**.
+2. Tick the following options:
+   - Rendering Settings
+   - Material Upgrade
+   - Readonly Material Converter
+3. Click **Initialize Converters**.
+4. Click **Convert Assets**.
 
-Original repo is hosted on PlasticSCM, this is just a copy to showcase
+## Additional Notes
 
+- The original repository is hosted on PlasticSCM. This is a copy to showcase the project.
 
+---
 
-https://github.com/user-attachments/assets/a7f003d3-bd09-4fc2-a326-953e7ed328dd
-
+Thank you for checking out the Escape Room Project! We hope you enjoy exploring and solving the puzzles as much as we enjoyed creating them.
